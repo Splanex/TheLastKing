@@ -1,0 +1,11 @@
+name: TheLastKing
+version: 0.5.6
+author: tmagnier
+main: fr.tmagnier.TheLastKing.Main
+
+commands:
+    lastking:
+        description: Commande principale de TheLastKing.
+        aliases: [lk, tlk, thelastking, lking, lastk]
+    objectifs:
+        descrition: Affiche les objectifs
